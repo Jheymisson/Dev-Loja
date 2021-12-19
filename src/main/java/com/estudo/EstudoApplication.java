@@ -46,6 +46,4 @@ public class EstudoApplication implements CommandLineRunner {
 		
 	}
 
-	
-	
 }
